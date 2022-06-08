@@ -1,7 +1,7 @@
 # Café sem bug
 
 # Layout:
-![Cadastro](https://user-images.githubusercontent.com/103468962/170996072-478489c5-ba08-4e7a-9d01-06a797613da6.png)
+![_C__Users_Usu%C3%A1rio_Desktop_site-cafe_index html (1)](https://user-images.githubusercontent.com/103468962/172728012-7fe21dc7-6dfa-428f-a7ee-15afeae8725e.png)
 
 # Sobre o Projeto:
 Web page profissional e responsiva de uma loja de café
